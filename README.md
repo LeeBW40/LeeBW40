@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-Hi, I'm Leo. You might recognize me as GitHub's mascot
 | Rank |   Languages   |
 |-----:|---------------|
 |     1|       Python  |
