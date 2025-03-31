@@ -1,0 +1,4 @@
+method,best_acc,training_time
+mean,0.4408866995073892,1.0
+median,0.4408866995073892,5.63
+gaussian,0.6379310344827587,1.94

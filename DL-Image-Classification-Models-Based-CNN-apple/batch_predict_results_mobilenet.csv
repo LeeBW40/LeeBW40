@@ -1,0 +1,407 @@
+file,pred_class,pred_name,confidence,true_class,true_name
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\224.jpg,0,apple_1,0.9996048808097839,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\279.jpg,0,apple_1,0.9998194575309753,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\407.jpg,0,apple_1,0.9996529817581177,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\424.jpg,0,apple_1,0.9993734955787659,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\426.jpg,0,apple_1,0.9996040463447571,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\448.jpg,0,apple_1,0.9996337890625,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\462.jpg,0,apple_1,0.9968141913414001,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\480.jpg,0,apple_1,0.9980663657188416,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\487.jpg,0,apple_1,0.9995505213737488,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\569.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\614.jpg,0,apple_1,0.9980183839797974,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (11).jpg,0,apple_1,0.9992882609367371,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (117).jpg,0,apple_1,0.9992504715919495,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (121).jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (135).jpg,0,apple_1,0.9983478784561157,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (136).jpg,0,apple_1,0.9997994303703308,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (157).jpg,0,apple_1,0.9994174242019653,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (158).jpg,0,apple_1,0.9999067783355713,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (168).jpg,0,apple_1,0.9996554851531982,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (171).jpg,0,apple_1,0.9998140931129456,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (182).jpg,0,apple_1,0.9994804263114929,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (195).jpg,0,apple_1,0.9995323419570923,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (198).jpg,0,apple_1,0.9996548891067505,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (200).jpg,0,apple_1,0.9996278285980225,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (202).jpg,0,apple_1,0.9997251629829407,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (203).jpg,0,apple_1,0.999998927116394,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (207).jpg,0,apple_1,0.9999996423721313,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (225).jpg,0,apple_1,0.9992509484291077,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (228).jpg,0,apple_1,0.9997649788856506,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (229).jpg,0,apple_1,0.9997770190238953,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (232).jpg,0,apple_1,0.9996291399002075,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (237).jpg,0,apple_1,0.9997114539146423,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (25).jpg,0,apple_1,0.9997623562812805,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (250).jpg,0,apple_1,0.9999165534973145,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (259).jpg,0,apple_1,0.9838641881942749,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (262).jpg,0,apple_1,0.9999996423721313,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (266).jpg,0,apple_1,0.999702513217926,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (268).jpg,0,apple_1,0.9997370839118958,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (273).jpg,0,apple_1,0.99713134765625,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (275).jpg,0,apple_1,0.9996830224990845,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (281).jpg,0,apple_1,0.999675989151001,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (292).jpg,0,apple_1,0.9999988079071045,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (297).jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (299).jpg,0,apple_1,0.999995231628418,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (301).jpg,0,apple_1,0.9993671774864197,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (305).jpg,0,apple_1,0.9999872446060181,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (311).jpg,0,apple_1,0.9995706677436829,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (314).jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (317).jpg,0,apple_1,0.9999958276748657,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (323).jpg,0,apple_1,0.9987279772758484,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (330).jpg,0,apple_1,0.9962030053138733,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (338).jpg,0,apple_1,0.9883734583854675,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (350).jpg,0,apple_1,0.9997559189796448,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (365).jpg,0,apple_1,0.9996107220649719,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (38).jpg,0,apple_1,0.9994896650314331,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (4).jpg,0,apple_1,0.9995633959770203,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (42).jpg,0,apple_1,0.9996300935745239,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (43).jpg,0,apple_1,0.999748170375824,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (44).jpg,0,apple_1,0.999642014503479,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (45).jpg,0,apple_1,0.99540776014328,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (52).jpg,0,apple_1,0.9998154044151306,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (60).jpg,0,apple_1,0.9999997615814209,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (64).jpg,0,apple_1,0.9997920393943787,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (66).jpg,0,apple_1,0.869996964931488,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (75).jpg,0,apple_1,0.9997091889381409,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (85).jpg,0,apple_1,0.9988319277763367,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple (95).jpg,0,apple_1,0.9997701048851013,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple10.jpg,0,apple_1,0.9985890984535217,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1034.jpg,0,apple_1,0.9996141195297241,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1118.jpg,0,apple_1,0.9998388290405273,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1163.jpg,0,apple_1,0.9988981485366821,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1178.jpg,0,apple_1,0.9999396800994873,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple118.jpg,0,apple_1,0.9996527433395386,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1187.jpg,0,apple_1,0.9964998960494995,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1191.jpg,0,apple_1,0.9994940757751465,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1202.jpg,0,apple_1,0.9994638562202454,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple126.jpg,0,apple_1,0.9995840191841125,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1262.jpg,0,apple_1,0.9818653464317322,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple131.jpg,0,apple_1,0.9994140863418579,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1434.jpg,0,apple_1,0.999821126461029,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1462.jpg,0,apple_1,0.9998268485069275,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1490.jpg,0,apple_1,0.9988681077957153,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple15.jpg,0,apple_1,0.9985890984535217,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1511.jpg,0,apple_1,0.9996639490127563,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1549.jpg,0,apple_1,0.9997434020042419,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1586.jpg,0,apple_1,0.9999656677246094,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1607.jpg,0,apple_1,0.6717355847358704,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1610.jpg,0,apple_1,0.9996527433395386,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1626.jpg,0,apple_1,0.9994140863418579,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1702.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1729.jpg,0,apple_1,0.9998608827590942,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1731.jpg,0,apple_1,0.9995076656341553,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1739.jpg,0,apple_1,0.9995076656341553,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1751.jpg,0,apple_1,0.9999712705612183,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1806.jpg,0,apple_1,0.9996148347854614,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1826.jpg,0,apple_1,0.9995402097702026,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1831.jpg,0,apple_1,0.9996907711029053,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1838.jpg,0,apple_1,0.9996907711029053,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1874.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1899.jpg,0,apple_1,0.9995728135108948,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1903.jpg,0,apple_1,0.9983271956443787,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple1922.jpg,0,apple_1,0.9998388290405273,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple198.jpg,0,apple_1,0.9993451237678528,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple201.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple2118.jpg,0,apple_1,0.9999817609786987,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple2150.jpg,0,apple_1,0.9993725419044495,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple2206.jpg,0,apple_1,0.9999817609786987,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple229.jpg,0,apple_1,0.9998608827590942,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple246.jpg,0,apple_1,0.9995076656341553,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple26.jpg,0,apple_1,0.9996639490127563,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple262.jpg,0,apple_1,0.9999712705612183,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple27.jpg,0,apple_1,0.9996639490127563,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple278.jpg,0,apple_1,0.9999860525131226,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple30.jpg,0,apple_1,0.9969243407249451,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple307.jpg,0,apple_1,0.9996148347854614,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple31.jpg,0,apple_1,0.9969243407249451,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple310.jpg,0,apple_1,0.999667763710022,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple327.jpg,0,apple_1,0.9995402097702026,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple330.jpg,0,apple_1,0.9996907711029053,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple342.jpg,0,apple_1,0.9965914487838745,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple35.jpg,0,apple_1,0.9969243407249451,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple358.jpg,0,apple_1,0.999997615814209,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple363.jpg,0,apple_1,0.9987062215805054,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple386.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple406.jpg,0,apple_1,0.9983271956443787,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple41.jpg,0,apple_1,0.9999364614486694,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple411.jpg,0,apple_1,0.9998388290405273,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple462.jpg,0,apple_1,0.9994474053382874,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple470.jpg,0,apple_1,0.9817781448364258,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple51.jpg,0,apple_1,0.9997434020042419,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple518.jpg,0,apple_1,0.9985890984535217,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple522.jpg,0,apple_1,0.9995840191841125,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple542.jpg,0,apple_1,0.9965914487838745,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple574.jpg,0,apple_1,0.9976196885108948,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple658.jpg,0,apple_1,0.9993725419044495,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple721.jpg,0,apple_1,0.9999817609786987,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple82.jpg,0,apple_1,0.9999656677246094,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple833.jpg,0,apple_1,0.9998455047607422,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple850.jpg,0,apple_1,0.999500036239624,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple874.jpg,0,apple_1,0.9999812841415405,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple899.jpg,0,apple_1,0.9995717406272888,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple902.jpg,0,apple_1,0.9998596906661987,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple914.jpg,0,apple_1,0.9996446371078491,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple958.jpg,0,apple_1,0.9997180104255676,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple962.jpg,0,apple_1,0.9991666078567505,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple98.jpg,0,apple_1,0.9988106489181519,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_1.jpg,0,apple_1,0.9996544122695923,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_10.jpg,0,apple_1,0.9996247291564941,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_15.jpg,0,apple_1,0.9999877214431763,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_16.jpg,0,apple_1,0.9996651411056519,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_19.jpg,0,apple_1,0.9998131394386292,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_2.jpg,0,apple_1,0.9996033310890198,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_22.jpg,0,apple_1,0.9999946355819702,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_28.jpg,0,apple_1,0.9999963045120239,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_33.jpg,0,apple_1,0.9999721050262451,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_35.jpg,0,apple_1,0.9997968077659607,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_36.jpg,0,apple_1,0.9851241707801819,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_42.jpg,0,apple_1,0.9998948574066162,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_44.jpg,0,apple_1,0.9995983242988586,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_47.jpg,0,apple_1,0.999413251876831,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_48.jpg,0,apple_1,0.9997747540473938,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_51.jpg,0,apple_1,0.9996854066848755,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_53.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_56.jpg,0,apple_1,0.9978345036506653,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_57.jpg,0,apple_1,0.9996389150619507,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_7.jpg,0,apple_1,0.9994762539863586,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_72.jpg,0,apple_1,0.9999587535858154,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_73.jpg,0,apple_1,0.9996665716171265,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_75.jpg,0,apple_1,0.9995946288108826,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_80.jpg,0,apple_1,0.9994931221008301,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_83.jpg,0,apple_1,0.9996564388275146,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_85.jpg,0,apple_1,1.0,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_90.jpg,0,apple_1,0.9998563528060913,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_92.jpg,0,apple_1,0.999843955039978,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_93.jpg,0,apple_1,0.9995208978652954,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\apple_94.jpg,0,apple_1,0.9998489618301392,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\c92fb962e9b95e8140e2d75902677d6a.jpg,0,apple_1,0.9966409206390381,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\微信截图_20250319165821.jpg,0,apple_1,0.9998013377189636,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_1\微信截图_20250319170255.jpg,0,apple_1,0.9991438388824463,0,apple_1
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\00.jpg,1,apple_2,0.9999836683273315,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\01dc00a064864d1865c6ea7cdd938613.jpg,1,apple_2,0.9999992847442627,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\0398c8a967500b7d8c7ec826bdd38063.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\0501430a11df06a968d7e472744991bb.jpg,1,apple_2,0.9998546838760376,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\064bdd014cc3a4d3c068b449e72b2b3b.jpg,1,apple_2,0.9999984502792358,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\0975d7dd6fb99d210554e80658728fb2.jpg,1,apple_2,0.9999986886978149,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\0a57b99849f779ab15f9a427cb8c1676.jpg,1,apple_2,0.9999979734420776,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\124.jpg,1,apple_2,0.9998854398727417,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\132eb6aa5194ad50b27702f85996affa.jpg,1,apple_2,0.999980092048645,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\16780e28924dd031f96c65b8d32c1953.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\16bf4124376eecf1d0fd753def8fd5fa.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\191415fd0303a8030f6d2cd5eca5c21e.jpg,1,apple_2,0.9999676942825317,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\1c056950f16c069dc186c32f40c4e761.jpg,1,apple_2,0.9999270439147949,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\1f3b0978c29a44c54d67bde3fe3b9536.jpg,1,apple_2,0.9997534155845642,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\1f6b5234c4a7971759e1c7d5d38242d5.jpg,1,apple_2,0.9999990463256836,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\282df07a3e0e1c9f8139a9a4680361c0.jpg,1,apple_2,0.9999985694885254,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\313789c4d8012f8842244c605cd83dff.jpg,1,apple_2,0.9999535083770752,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\3203cc199633a0925aa3c0cc3a3496fd.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\38f7036db7929cb0058d76e9d08961a4.jpg,1,apple_2,0.9999948740005493,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\42c0cee19d08f885ac208343dfc9a942.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\460e8942ecf624b510528558c4f7524e.jpg,1,apple_2,0.9999991655349731,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\4a4cc7151ceed8c98d74cf4a570a4f2d.jpg,1,apple_2,0.9998226761817932,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\4dcb7c553943c2d702abda4277608fe6.jpg,1,apple_2,0.999992847442627,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\514015d58de94b6fa7021e389255fb80.jpg,1,apple_2,0.9999738931655884,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\56.jpg,1,apple_2,0.999990701675415,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\56de4a282ae87e4ba035b7426dafb092.jpg,1,apple_2,0.9999953508377075,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\586cb2636e93f122f4ae5d5783115eed.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\5d87f84c07d3c760b147fe2659f8f1e4.jpg,1,apple_2,0.9970735311508179,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\60a55d1329964dad84488e0f1593cab2.jpg,1,apple_2,0.9999957084655762,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\614.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\65037beb36acf25766db6b08fdf1ee35.jpg,1,apple_2,0.9978829026222229,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\650c0214443d840251ceedd485fd3f6a.jpg,1,apple_2,0.9999996423721313,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\65e8ac9e89ff3695742fcad32084a286.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\6728bce20820005d05b82c2661419bd1.jpg,1,apple_2,0.9999549388885498,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\6750fac62909b70d29360e3876985394.jpg,1,apple_2,0.9999899864196777,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\675849e5ea8bb07656bd2754d0fb2fb7.jpg,1,apple_2,0.9999920129776001,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\71fd9dc80da12239845d20b8c26a9b5c.jpg,1,apple_2,0.9999946355819702,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\80943d916b731b4563bbe717d9ccf98b.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\8117ecccf3fa6b2dd704126018925805.jpg,1,apple_2,0.9999262094497681,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\822127c696621bed43f2cfce1303846a.jpg,1,apple_2,0.9999979734420776,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\843690f4e17a88f0b3a1dd087ecc6b71.jpg,1,apple_2,0.9999778270721436,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\88605e679bf8f38316b1264741f03f28.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\8a2f039bd0fde64db8ae770715d289e1.jpg,1,apple_2,0.999592125415802,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\8a8a9f350e7203d90216a09a69aeb0d0.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\8bced8e47706ef5e9285186d5d45a73f.jpg,1,apple_2,0.9999996423721313,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\8efe9f9e6875bd3335066e5d027bbd5b.jpg,1,apple_2,0.9999995231628418,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\9791a81f8d63a50436d8ecfe09561335.jpg,1,apple_2,0.9999996423721313,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\990.jpg,1,apple_2,0.9999892711639404,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\9b969aaa3d1af164a1d52e5d24332fc1.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\9c8e10c6775351b6f44fdb4023ab0648.jpg,1,apple_2,0.9999978542327881,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\ab18559d376baad56171bbbeff0b6fed.jpg,1,apple_2,0.9999144077301025,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\apple5.jpg,1,apple_2,0.9999992847442627,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\apple575.jpg,1,apple_2,0.9999992847442627,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\apple6.jpg,1,apple_2,0.9999978542327881,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\b1fa9b9ab0459c403d58ddf540143061.jpg,1,apple_2,0.9994507431983948,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\b798a8a5ad12970b1e5fcd5d8e32696d.jpg,1,apple_2,0.9999932050704956,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\b91d84e38537821fc757ebd3ebdf148b.jpg,1,apple_2,0.9998148083686829,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\ba98f46bfbf6a74fcda7a6a26a7c8b60.jpg,1,apple_2,0.999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\c5e37051270df47c411e87abc77eaeae.jpg,1,apple_2,0.9999979734420776,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\cdbe269c95ed7158d98e09b7bb999df7.jpg,1,apple_2,0.9993047714233398,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\e1e1994a156f1169bab1ab147a2b114a.jpg,1,apple_2,0.999985933303833,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\e3fba88d84c247b18346593c85037cc7.jpg,1,apple_2,0.998653769493103,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\e901511515cdfd705ef047d2a77867ff.jpg,1,apple_2,0.9999985694885254,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165528.jpg,1,apple_2,0.9999942779541016,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165540.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165547.jpg,1,apple_2,0.9999943971633911,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165611.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165627.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165833.jpg,1,apple_2,0.9999456405639648,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165841.jpg,1,apple_2,0.999977707862854,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165909.jpg,1,apple_2,0.9999896287918091,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165930.jpg,1,apple_2,0.9999997615814209,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319165955.jpg,1,apple_2,0.9999920129776001,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170241.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170421.jpg,1,apple_2,0.9999798536300659,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170435.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170443.jpg,1,apple_2,0.9999940395355225,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170453.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170500.jpg,1,apple_2,0.9999984502792358,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170510.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170517.jpg,1,apple_2,0.999993085861206,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170524.jpg,1,apple_2,0.9999971389770508,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170531.jpg,1,apple_2,0.9999990463256836,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170540.jpg,1,apple_2,0.9954283237457275,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170549.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170557.jpg,1,apple_2,0.9999996423721313,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170603.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170624.jpg,1,apple_2,0.9999709129333496,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170629.jpg,1,apple_2,0.9999898672103882,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170639.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170645.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170651.jpg,1,apple_2,0.9999995231628418,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170704.jpg,1,apple_2,0.9999099969863892,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170709.jpg,1,apple_2,0.9999881982803345,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170721.jpg,1,apple_2,0.9998798370361328,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170734.jpg,1,apple_2,0.9999290704727173,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170742.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170749.jpg,1,apple_2,0.9999676942825317,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170801.jpg,1,apple_2,0.999987006187439,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170822.jpg,1,apple_2,0.9999970197677612,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170836.jpg,1,apple_2,0.9999934434890747,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170930.jpg,1,apple_2,0.9999985694885254,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319170938.jpg,1,apple_2,0.9999964237213135,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171022.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171029.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171042.jpg,1,apple_2,0.9989991784095764,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171104.jpg,1,apple_2,0.9999967813491821,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171114.jpg,1,apple_2,0.9999065399169922,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171120.jpg,1,apple_2,0.9999971389770508,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171243.jpg,1,apple_2,0.9997044205665588,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171403.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171502.jpg,1,apple_2,0.9999979734420776,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171510.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171515.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171932.jpg,1,apple_2,0.9999294281005859,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171938.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319171945.jpg,1,apple_2,0.9993939399719238,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172010.jpg,1,apple_2,0.9999994039535522,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172018.jpg,1,apple_2,0.9999938011169434,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172113.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172129.jpg,1,apple_2,0.9997056126594543,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172145.bmp,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172154.jpg,1,apple_2,0.9999927282333374,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172200.jpg,1,apple_2,0.9999991655349731,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172216.jpg,1,apple_2,0.9999963045120239,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172224.jpg,1,apple_2,0.9999983310699463,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172231.jpg,1,apple_2,0.9999785423278809,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172408.jpg,1,apple_2,0.9999744892120361,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172444.jpg,1,apple_2,0.9999970197677612,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172458.jpg,1,apple_2,0.9999998807907104,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172835.jpg,1,apple_2,1.0,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_2\微信截图_20250319172851.jpg,1,apple_2,0.9999983310699463,1,apple_2
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\10.jpg,2,apple_3,0.9999974966049194,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\11.jpg,2,apple_3,0.9999362230300903,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\12.jpg,2,apple_3,0.9999992847442627,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\13 (2).jpg,2,apple_3,0.9999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\13.jpg,2,apple_3,0.998325765132904,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\14 (2).jpg,2,apple_3,0.999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\14.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\15.jpg,2,apple_3,0.9998387098312378,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\158.jpg,2,apple_3,0.9999995231628418,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\16 (2).jpg,2,apple_3,0.9999998807907104,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\16.jpg,2,apple_3,0.9999982118606567,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\17.jpg,2,apple_3,0.9994268417358398,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\18.jpg,2,apple_3,0.999970555305481,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\19.jpg,2,apple_3,0.9999873638153076,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\2.jpg,2,apple_3,0.9999977350234985,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\21.jpg,2,apple_3,0.9999973773956299,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\22 (2).jpg,2,apple_3,0.9999979734420776,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\22.jpg,2,apple_3,0.999975323677063,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\221.jpg,2,apple_3,0.9998369216918945,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\23.jpg,2,apple_3,0.9999551773071289,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\24.jpg,2,apple_3,0.9999996423721313,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\25.jpg,2,apple_3,0.9997486472129822,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\254.jpg,2,apple_3,0.9999544620513916,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\26.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\27.jpg,2,apple_3,0.9999887943267822,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\275.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\276.jpg,2,apple_3,0.9999995231628418,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\28.jpg,2,apple_3,0.9998396635055542,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\286.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\29.jpg,2,apple_3,0.9999552965164185,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\30.jpg,2,apple_3,0.999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\31.jpg,2,apple_3,0.9999996423721313,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\311.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\33.jpg,2,apple_3,0.9999973773956299,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\34.jpg,2,apple_3,0.9996631145477295,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\357.jpg,2,apple_3,0.9999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\36.jpg,2,apple_3,0.9999990463256836,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\370.jpg,2,apple_3,0.9999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\391.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\395.jpg,2,apple_3,0.9999998807907104,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\4.jpg,2,apple_3,0.9999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\40.jpg,2,apple_3,0.9999995231628418,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\41.jpg,2,apple_3,0.9997311234474182,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\42.jpg,2,apple_3,0.9999995231628418,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\43.jpg,2,apple_3,0.9998890161514282,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\45.jpg,2,apple_3,0.9917342662811279,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\5.jpg,2,apple_3,0.999991774559021,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\6.jpg,2,apple_3,0.9999977350234985,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\65.jpg,2,apple_3,0.9999977350234985,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\66 (2).jpg,2,apple_3,0.9999932050704956,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\66.jpg,2,apple_3,0.9999970197677612,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\7.jpg,2,apple_3,0.9999973773956299,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\77.jpg,2,apple_3,0.9999960660934448,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\79.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\8.jpg,2,apple_3,0.9999887943267822,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\88.jpg,2,apple_3,0.999985933303833,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\9 (2).jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\9.jpg,2,apple_3,0.9999974966049194,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\e0b8d4ee7a641637e62e1e4dfed6311f.jpg,2,apple_3,0.9999923706054688,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319141210.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319141627.jpg,2,apple_3,0.9999995231628418,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319151608.jpg,2,apple_3,0.9999829530715942,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319151642.jpg,2,apple_3,0.9999964237213135,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319151656.jpg,2,apple_3,0.9999212026596069,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319151705.jpg,2,apple_3,0.9999985694885254,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319151713.jpg,2,apple_3,0.9999904632568359,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152018.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152027.jpg,2,apple_3,0.9999948740005493,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152036.jpg,2,apple_3,0.9999983310699463,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152044.jpg,2,apple_3,0.9999997615814209,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152106.jpg,2,apple_3,0.9999909400939941,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152125.jpg,2,apple_3,0.9999959468841553,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152210.jpg,2,apple_3,0.9999990463256836,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152306.jpg,2,apple_3,0.9999949932098389,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152328.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152417.jpg,2,apple_3,0.9999852180480957,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152503.jpg,2,apple_3,0.9999696016311646,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319152549.jpg,2,apple_3,0.9999996423721313,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153041.jpg,2,apple_3,0.9999943971633911,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153128.jpg,2,apple_3,0.999996542930603,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153149.jpg,2,apple_3,0.9999994039535522,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153305.jpg,2,apple_3,0.9999934434890747,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153319.jpg,2,apple_3,0.9991171956062317,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153416.jpg,2,apple_3,0.9999984502792358,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153426.jpg,2,apple_3,0.9995982050895691,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153455.jpg,2,apple_3,0.9999998807907104,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319153505.jpg,2,apple_3,0.9999988079071045,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319165712.jpg,2,apple_3,0.9999998807907104,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319165813.jpg,2,apple_3,0.9981968998908997,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319165850.jpg,2,apple_3,0.9999874830245972,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319170849.jpg,2,apple_3,0.9999858140945435,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319170856.jpg,2,apple_3,0.9975566864013672,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319170901.jpg,2,apple_3,0.9999909400939941,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319170908.jpg,2,apple_3,1.0,2,apple_3
+D:\post-file\工程实践\DL-Image-Classification-Models-Based-CNN\dataset\apple\train\apple_3\微信截图_20250319172930.jpg,2,apple_3,0.9998888969421387,2,apple_3

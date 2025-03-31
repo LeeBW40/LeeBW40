@@ -1,0 +1,4 @@
+method,best_acc,training_time
+robert,0.8325123152709359,16.37
+sobel,0.4408866995073892,9.01
+laplace,0.4408866995073892,8.15
